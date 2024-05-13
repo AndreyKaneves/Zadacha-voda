@@ -31,6 +31,5 @@ int main()
 		cin >> d;
 		cout << "Введите значение hl:";
 		cin >> hl;
-
 }
 
